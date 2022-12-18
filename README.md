@@ -1,5 +1,5 @@
 # Analog Clock 
 
-[Website](https://FaisalKhan171101.github.io/analog-clock.github.io) with an analog clock created using html,css and javascript.
+[Website](https://faisalkhan171101.github.io/Analog-clock/) with an analog clock created using html,css and javascript.
 
 © 2022 Faisal Khan, Presidency University
